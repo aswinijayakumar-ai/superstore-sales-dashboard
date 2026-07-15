@@ -38,4 +38,4 @@ This project is an interactive Power BI dashboard built on the Sample Superstore
 ## 👤 About Me
 Healthcare professional transitioning into Business Analysis & Data Analytics, with a background in clinical operations and medical coding. This project reflects my growing skills in data visualization, DAX, and translating raw data into actionable business insights.
 
-[LinkedIn](#) | [Resume](#)
+[LinkedIn](https://www.linkedin.com/in/aswanijayakumar/) | [Resume](#)
